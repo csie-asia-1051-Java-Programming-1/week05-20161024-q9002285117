@@ -5,7 +5,7 @@ public class hw04 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 Scanner scn=new Scanner(System.in);
-System.out.println("¿é¤J¤@¥¿¾ã¼Æn");
+System.out.println("è«‹è¼¸å…¥ä¸€æ­£æ•´æ•¸n");
 int n=scn.nextInt();
 float sum=0;
 for(int i=1;i<=n;i++){

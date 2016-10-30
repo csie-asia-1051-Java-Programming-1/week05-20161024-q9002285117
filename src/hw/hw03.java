@@ -7,7 +7,7 @@ public class hw03 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scn = new Scanner(System.in);
-		System.out.println("½Ð¿é¤J¤@­Ón­È");
+		System.out.println("è«‹è¼¸å…¥ä¸€æ­£æ•´æ•¸n");
 		int n = scn.nextInt();
 		int sum = 1;
 		int m = 0;
@@ -16,7 +16,7 @@ public class hw03 {
 			sum = sum * n;
 			m++;
 		}
-		System.out.println("nªº"+m+"¦¸¤è¤j©ó10000");
+		System.out.println("nçš„"+m+"æ¬¡æ–¹å¤§æ–¼10000");
 	}
 
 }
